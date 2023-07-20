@@ -1,2 +1,2 @@
 # mypipeline
-github pipeline for demo 
+github pipeline for demo and learning purpose
